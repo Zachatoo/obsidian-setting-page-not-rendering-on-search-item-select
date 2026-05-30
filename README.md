@@ -8,4 +8,4 @@
 1. Search for "items" and selelct search result in search.
     - Page will render.
 
-<video controls src="assets/2026-05-30_15-12-13.mp4" title="Example"></video>
+https://github.com/user-attachments/assets/03e57b3f-fa8d-41fb-8dcf-89da97eb42c8
